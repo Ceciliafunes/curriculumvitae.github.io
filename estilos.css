@@ -1,0 +1,51 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+.title{
+    color:rgb(42, 157, 165);
+    width: 50%;
+    margin-left: 450px;
+    }
+
+.titulos{
+    color: rgb(42, 157, 165);
+    width: 40%;
+    margin-left: 1px;
+    border: 4px solid grey
+}
+
+.textos{  
+color: rgb(0, 58, 128);
+    width: 40%;
+    margin-left: 1px;
+    border: 4px solid rgb(42, 132, 165);
+}
+
+.body{
+background-color: aliceblue;    
+border: 10px solid rgb(42, 132, 165);
+padding: 5px;
+width:1500px;
+height: 1500 px;
+text-align: justify;
+}
+
+.nombreCompleto{
+    color: black;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+.container{ 
+    text-align: center;
+
+}
+
+    
+    
+
